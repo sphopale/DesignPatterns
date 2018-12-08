@@ -1,4 +1,4 @@
-package src.designpatterns.decoratorpattern.GUIexample;
+package com.designpatterns.decoratorpattern.GUIexample;
 
 public interface Window {
 

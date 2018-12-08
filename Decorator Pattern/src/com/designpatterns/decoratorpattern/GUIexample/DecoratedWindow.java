@@ -1,4 +1,4 @@
-package src.designpatterns.decoratorpattern.GUIexample;
+package com.designpatterns.decoratorpattern.GUIexample;
 
 public class DecoratedWindow implements Window {
 	private Window privateWindowReference=null;
